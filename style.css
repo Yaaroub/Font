@@ -1,0 +1,77 @@
+body {
+  padding: 4rem;
+  background-image: url(./victor-furtuna-7LEj-YNAY6M-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+}
+ol {
+  background-color: rgba(250, 235, 215, 0.534);
+  width: 350px;
+  margin-left: 100px;
+  border-radius: 10px;
+}
+li {
+  padding: 10px;
+  list-style: none;
+}
+#id1 {
+  font-family: "Courier New", Courier, monospace;
+}
+#id2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#id3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#id4 {
+  font-family: "Vibes", cursive;
+}
+#id5 {
+  font-family: "Macondo", cursive;
+}
+#id6 {
+  font-family: "Zen Loop", cursive;
+}
+#id7 {
+  font-family: "Water Brush", cursive;
+}
+#id8 {
+  font-family: "Tapestry", cursive;
+}
+#id9 {
+  font-family: "Exo 2", sans-serif;
+}
+#id10 {
+  font-family: "Koulen", cursive;
+}
+#id11 {
+  font-family: "Amatic SC", cursive;
+}
+#id12 {
+    font-family: 'Courgette', cursive;
+}
+
+#id13 {
+    font-family: 'Lobster Two', cursive;
+}
+#id14 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#id15 {
+    font-family: 'Smokum', cursive;
+}
+#id16 {
+    font-family: 'Whisper', cursive;
+}
+#id17 {
+    font-family: 'Homemade Apple', cursive;
+}
+#id18 {
+    font-family: 'Rock Salt', cursive;
+}
+#id19 {
+    font-family: 'Caveat Brush', cursive;
+}
+#id20 {
+    font-family: 'Monoton', cursive;
+}
